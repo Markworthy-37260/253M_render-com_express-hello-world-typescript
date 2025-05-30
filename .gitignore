@@ -1,3 +1,11 @@
-node_modules
-dist
-.DS_Store
+*
+!.gitignore
+!LICENSE
+!README.md
+!app.ts
+!package.json
+!tsconfig.json
+!yarn.lock
+!sdb1
+!sdb1/sccs_git
+!sdb1/sccs_git/**
