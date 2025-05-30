@@ -7,5 +7,5 @@
 !tsconfig.json
 !yarn.lock
 !sdb1
-!sdb1/sccs_git
-!sdb1/sccs_git/**
+!sdb1/SCCS_git
+!sdb1/SCCS_git/**
