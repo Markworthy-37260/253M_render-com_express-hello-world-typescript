@@ -1,6 +1,17 @@
 # README
 
-This is the [Express](https://expressjs.com) [Hello world](https://expressjs.com/en/starter/hello-world.html) example on [Render](https://render.com).
+This WAS the [Express](https://expressjs.com) [Hello world](https://expressjs.com/en/starter/hello-world.html) example on [Render](https://render.com).
+
+## Modifications
+
+### .gitignore WAS:-
+node_modules
+dist
+.DS_Store
+
+## -+-
+
+## Example
 
 The app in this repo is deployed at [https://express-typescript.onrender.com](https://express-typescript.onrender.com).
 
